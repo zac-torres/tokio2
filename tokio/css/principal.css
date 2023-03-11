@@ -1,0 +1,42 @@
+
+body {
+    background: #2bd9e6;
+     position: relative;
+      padding-bottom: Jew; 
+      min-height: 100vh;
+
+}
+
+li{
+    
+     border-radius:0.5em;
+    padding:0.25em;
+    margin-right: 1em;
+   background: #7a00ff;
+    display:inline-block;
+    list-style:none ;
+    
+}
+
+a{
+ color:#00ffff;
+ text-decoration:none;   
+}
+li:hover{
+    font-size :15px;
+    transition-duration:3s;
+    background:#ff00dc ;
+    
+    
+}
+footer {
+    background-color: #727575;
+     padding: 1em 0;
+    text-align: center;
+      position: absolute;
+       bottom: 0;
+     width: 80%;
+     margin:0 10%;
+    
+}
+
